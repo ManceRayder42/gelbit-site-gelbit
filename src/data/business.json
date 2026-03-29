@@ -1,0 +1,77 @@
+{
+  "businessName": "GelbIt - אתרי פרימיום",
+  "niche": "tech",
+  "description": "חברת טכנולוגיה ישראלית המתמחה ביצירת אתרי אינטרנט פרימיום באופן אוטומטי. הלקוח ממלא שאלון, ומערכת AI מתקדמת מייצרת אתר מותאם אישית תוך דקות — עיצוב מקצועי, תוכן בעברית, SEO מובנה ונגישות מלאה.",
+  "phone": "050-123-4567",
+  "whatsapp": "972501234567",
+  "email": "or@gelbit.co.il",
+  "address": {
+    "street": "תל אביב",
+    "city": "ישראל"
+  },
+  "businessHours": [
+    { "day": "ראשון", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "שני", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "שלישי", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "רביעי", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "חמישי", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "שישי", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "שבת", "open": "09:00", "close": "18:00", "closed": false }
+  ],
+  "services": [],
+  "testimonials": [],
+  "images": [],
+  "socialLinks": {
+    "facebook": "https://facebook.com/gelbit.websites",
+    "instagram": "https://instagram.com/gelbit.websites",
+    "website": "https://gelbit.co.il",
+    "otherProfiles": "LinkedIn: https://linkedin.com/company/gelbit"
+  },
+  "existingWebsite": "https://gelbit.co.il",
+  "brandColors": {
+    "primary": "#1e2a3c",
+    "secondary": "#3c8ecc",
+    "accent": "#ffffff"
+  },
+  "brandColorMode": "upload_image",
+  "hasLogo": true,
+  "photoSource": "none",
+  "tone": "friendly",
+  "designChoice": "choose",
+  "vibeWizardInputs": {
+    "referenceSites": [],
+    "tone": "trendy",
+    "moodDescription": ""
+  },
+  "selectedVibeDirection": {
+    "name": "אנרגיה דיגיטלית",
+    "mood": "תוסס ודינמי. מביא חוויה אינטראקטיבית ומרגשת למשתמש.",
+    "colors": {
+      "primary": "#3c8ecc",
+      "secondary": "#2f425e",
+      "accent": "#64a5d7",
+      "background": "#ffffff",
+      "text": "#1e2a3c"
+    },
+    "keywords": ["דינמי", "חיוני", "בהיר", "מודרני"]
+  },
+  "selectedPages": ["דף הבית", "המוצר", "אודות", "יצירת קשר", "תמחור", "protfolio"],
+  "customPages": ["protfolio"],
+  "selectedFeatures": [],
+  "hasDomain": false,
+  "targetAudience": "בעלי עסקים קטנים ובינוניים בישראל — מסעדות, קליניקות, משרדי עו\"ד, נדל\"ן, קבלנים, סטודיויות כושר — כל מי שצריך אתר אינטרנט מקצועי בלי לשלם עשרות אלפים ובלי לחכות חודשיים.",
+  "featureTier": "standard",
+  "nicheData": {
+    "hasDemo": true,
+    "nicheNotes": "אנחנו עצמנו הלקוח הראשון — בונים את האתר של GelbIt דרך המערכת שלנו כדי לבדוק את הפייפליין מקצה לקצה.",
+    "techDomain": "saas",
+    "fundingStage": "bootstrap",
+    "productDescription": "פלטפורמת SaaS ליצירת אתרים אוטומטית. הלקוח ממלא שאלון מפורט, 7 סוכני AI עובדים במקביל — מחקר עסקי, ארכיטקטורה, עיצוב, תוכן, קוד, ביקורת ופריסה. התוצאה: אתר React מוכן לייב תוך דקות."
+  },
+  "operatorNotes": {
+    "design": "אני רוצה אנמציות, אובייקטים 3d ואנימציות גלילה משמעויתיות"
+  },
+  "requestedFeatures": ["multilingual"],
+  "uploadedImageIds": [],
+  "businessStory": "התחלנו מתסכול פשוט — ראינו איך בעלי עסקים קטנים משלמים על אתרים שלא מביאים להם לקוחות, או משלמים עשרות אלפים לסוכנויות עיצוב ומחכים חודשיים. בנינו מערכת שנותנת לכל עסק אתר מותאם אישית — במחיר שקוף, במהירות, בלי להתפשר על איכות."
+}
